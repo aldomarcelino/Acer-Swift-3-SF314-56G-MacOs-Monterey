@@ -1,15 +1,25 @@
 #Specs
 
 CPU : Intel Core i5-8256U (Whisky Lake)
+
 Graphics : Intel UHD 620
+
 RAM : 8 GB DDR4 2400 MHz (non-replaceable) + 4 GB DDR4 SODIMM 2400 MHz
+
 SSD : SAMSUNG 860 EVO 25GB
+
 Screen : 13-inch 1920 x 1080 IPS
+
 Ports : 1xUSB 3.1 Gen-1 Type-C, 2xUSB 3.0, 1xUSB 2.0, 1xHDMI (full-size), 1xAudio jack
+
 Wifi/Bluetooth : Intel AC-7265, (M.2 NGFF)
+
 Audio : Realtek ALC256
+
 I2C Trackpad + PS2 keyboard
+
 OS
+
 This is for MONTEREY
 
 What is working
