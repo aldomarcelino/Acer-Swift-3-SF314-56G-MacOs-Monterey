@@ -1,4 +1,4 @@
-#Specs
+# Specs
 
 CPU : Intel Core i5-8256U (Whisky Lake)
 
@@ -18,7 +18,7 @@ Audio : Realtek ALC256
 
 I2C Trackpad + PS2 keyboard
 
-OS
+<h1>OS</h1>
 
 This is for MONTEREY
 
